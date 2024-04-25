@@ -14,9 +14,9 @@ Beyond the lab, I dedicated my time to volunteering with organizations that prom
 ### Research Contributions
 My research during this period led to significant contributions to the field, particularly in intelligent tutoring systems. I authored and co-authored several papers that were accepted at prestigious conferences:
 
-- "Investigating Pedagogical Agents’ Scaffolding of Self-regulated Learning in Relation to Learners’ Subgoals" accepted at the [International Conference of Artificial Intelligence in Education (AIED) Tokyo, Japan. ](./Papers_and_Presentations/AIED.docx)
-- "Gender Differences in Self-Regulated Learning Strategy Use in an Intelligent Tutoring System" presented at the [European Association for Research on Learning and Instruction (EARLI) Macedonia, Greece](./Papers_and_Presentations/EARLI.docx) 
-- "Examining Gender Differences in Self-Regulated Learning with MetaTutor " presented at the [American Educational Research Association (AERA) Chicago, USA.](./Papers_and_Presentations/AERA.docx)
+- "Investigating Pedagogical Agents’ Scaffolding of Self-regulated Learning in Relation to Learners’ Subgoals" accepted at the [International Conference of Artificial Intelligence in Education (AIED)] Tokyo, Japan. (./Papers_and_Presentations/AIED.docx)
+- "Gender Differences in Self-Regulated Learning Strategy Use in an Intelligent Tutoring System" presented at the [European Association for Research on Learning and Instruction (EARLI)] Macedonia, Greece. (./Papers_and_Presentations/EARLI.docx) 
+- "Examining Gender Differences in Self-Regulated Learning with MetaTutor " presented at the [American Educational Research Association (AERA)] Chicago, USA.(./Papers_and_Presentations/AERA.docx)
 Each of these papers underscored the potential of AI to transform educational methodologies through adaptive learning environments and data-driven insights.
 
 I have also contributed to the making and presentation of research posters including:
