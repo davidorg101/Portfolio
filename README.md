@@ -1,4 +1,4 @@
-v# Modeling and Simulation Portfolio
+# Modeling and Simulation Portfolio
 ## Academic and professional Projects from Fall 2022 until Spring 2024
 
 ## Two-Year Summary
