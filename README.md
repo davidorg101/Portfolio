@@ -91,6 +91,30 @@ To view the graphical representations of the key findings, check out the images 
 ![Average Scores](Images/average.png)
 ![Relative Feature Importance](Images/relative_future_importance.png)
 
+### Project 4: Restaurant Simulation with Agent-Based Modeling
+
+#### Overview
+Project 4 utilized Agent-Based Modeling (ABM) to simulate a dynamic restaurant environment with a focus on optimizing robot pathfinding. ABM's power lies in its ability to model complex systems through the interactions of individual agents, capturing the emergent behaviors that arise from these interactions.
+
+#### Simulation Design
+In this simulation:
+- Agents represented both customers and service robots within a restaurant setting.
+- Each agent was designed with unique attributes that influenced their behavior and interaction within the simulated environment.
+- The pathfinding algorithm was critical, ensuring robots navigated efficiently between tables and the kitchen, adapting in real-time to the restaurant's changing landscape.
+
+#### Key Takeaways
+- **Interaction Dynamics**: The simulation allowed for the observation of interaction patterns between robotic agents and the environment, providing insights into optimal service strategies.
+- **Efficiency Optimization**: By adjusting parameters, the simulation explored various scenarios to find the most efficient pathfinding solutions for service robots.
+- **Environmental Adaptation**: The model demonstrated how agents adapt to changes in the environment, such as different restaurant layouts or customer densities.
+
+#### Conclusions
+The statistical analysis post-simulation provided a robust dataset to examine the efficiency of different pathfinding approaches. The insights gained could inform both the deployment of service robots in restaurants and the broader field of robotics in service industries.
+
+#### Visualizations
+For a closer look at the simulation and its results, view the images below:
+- ![Robot Pathfinding Solutions](Images/Robot_Solutions.png)
+- ![Simulated Restaurant Environment](Images/Environment1.png)
+
 
 
 
