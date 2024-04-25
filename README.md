@@ -130,7 +130,7 @@ Our analysis revealed that certain LLMs, when grouped based on complementary str
 The study concluded that a collaborative approach to utilizing LLMs could significantly advance the role of AI in educational contexts. By strategically combining different LLMs, educators and technologists can create robust AI systems capable of supporting a wide range of academic functions.
 
 #### Full Paper
-For a detailed account of the research, including comprehensive data and analysis, refer to the final paper: [Final Paper on LLM Collaboration](Final_Paper.docx).
+For a detailed account of the research, including comprehensive data and analysis, refer to the final paper: [Final Paper on LLM Collaboration](./Papers_and_Presentations/Final_Paper.docx).
 
 
 
