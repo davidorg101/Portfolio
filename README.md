@@ -26,6 +26,6 @@ I have also contributed to the making and presentation of research posters inclu
 
 ![*Poster Presentation*](Images/Poster_presentation.jpg)
 
-[Poster:](Images/Poster.png)
+[Full poster here](Images/Poster.png)
 
 This period has been instrumental in shaping my understanding and expertise in AI-driven educational tools, setting a solid foundation for my ongoing contributions to the field of modeling and simulation.
