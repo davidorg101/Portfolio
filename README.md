@@ -59,7 +59,15 @@ The project employed an innovative approach by collecting multichannel multimoda
 #### Model Description
 Our model integrates various components of cognitive architecture with advanced machine learning techniques to predict and respond to student needs dynamically. The emphasis was on creating a system that not only supports academic achievement but also fosters a positive emotional and psychological environment for learning.
 
-#### Project Image
+On the student's end, the model begins with the assessment of their understanding and emotions. The student's judgment of learning (JOL) and feeling of knowing (FOK) prompt them to either seek help or continue working independently. As they engage with the material, their working memory is employed for rehearsal and encoding information into long-term memory. Emotional states are constantly monitored, with equilibrium signifying steady progress and disequilibrium indicating struggles that activate a cognitive reappraisal loop. This loop involves reflecting on their emotions and potentially re-framing their approach to the content.
+
+In the physical world aspect, the Personal Affective Learning (PAL) assistant assesses the student's affective state. If a negative state is detected, affective interventions, such as encouragement or advice on study strategies, are employed. The PAL also provides scaffolding when the student faces problems, helping them to build upon their existing knowledge without direct instruction.
+
+The virtual component of the ITS involves a cognitive monitor that assesses the student's mastery of content even when they're not actively asking for help. Similar to the PAL, a virtual affective monitor observes data to gauge the student's emotional state. Positive or neutral states continue the learning loop normally, while negative states trigger the affective monitor to provide suitable interventions to regulate emotions and maintain engagement.
+
+The system is designed to facilitate a seamless flow of information between the student's cognitive and emotional domains, the physical PAL assistant, and the virtual tutor. By doing so, it aims to create a supportive environment that adapts to the student's learning and emotional needs, thereby promoting effective learning and emotional well-being.
+
+#### Model:
 ![Cognitive Architecture Model](Images/Final_Model.png)
 
 
