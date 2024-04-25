@@ -32,6 +32,20 @@ accepted to the 2023 UCF Student Scholar Symposium. UCF, Orlando, Florida.
 
 This period has been instrumental in shaping my understanding and expertise in AI-driven educational tools, setting a solid foundation for my ongoing contributions to the field of modeling and simulation.
 
-### Volunteering and Leadership
-Beyond the lab, I dedicated my time to volunteering with organizations that promote science and technology education. My efforts were geared towards inspiring young students to explore and embrace technology, particularly artificial intelligence, as a tool for problem-solving and innovation.
+## Volunteering and Leadership
+Beyond the lab, I dedicate my time to volunteering with organizations that promote science and technology education. My efforts are particularly focused on inspiring young students to explore and embrace technology, specifically artificial intelligence, as a crucial tool for problem-solving and innovation. As part of my commitment, I actively participated in National Center for Simulation events, representing them at major Modeling & Simulation (M&S) conferences. This included playing a key role in assisting with the annual Interservice/Industry Training, Simulation, and Education Conference (I/ITSEC) for 2022 and 2023, as well as contributing to the Florida Simulation Summit in April 2024. These experiences allowed me to contribute to the field's growth while fostering connections between educational initiatives and the broader simulation community.
+
+## Key Projects
+
+1. ### Project A: Multimedia Language Acquisition Research
+
+#### Overview
+This project leverages a rich array of multimedia tools—including PowerPoint presentations, websites, audio, and video content—to elucidate my research on language acquisition. The goal was to create an accessible and engaging educational resource that highlights the importance and intricacies of how we acquire languages.
+
+#### Details
+The multimedia approach was carefully chosen to cater to diverse learning styles, enabling a deeper understanding and retention of the material presented. By integrating dynamic visuals in PowerPoint, interactive elements on a dedicated website, and both audio and video explanations, the project offers a comprehensive learning experience. These elements work together to simulate various language learning scenarios and present research findings in an innovative manner.
+
+#### Project Website
+For a more interactive experience and to explore the resources developed for this project, visit the [Language Acquisition Multimedia Project website](https://organistammproject.weebly.com/).
+
 
