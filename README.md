@@ -26,7 +26,7 @@ I have also contributed to the making and presentation of research posters inclu
 - "Examining Gender Differences to Leverage Self-Regulated Learning Scaffolding in an Intelligent Tutoring System." Poster submitted and
 accepted to the 2023 UCF Student Scholar Symposium. UCF, Orlando, Florida. 
 
-![*Poster Presentation*](Images/Poster_presentation.jpg)
+![*Poster Presentation*](Images/Poster_presentation.jpg) 
 
 [Full poster here](Images/Poster.png)
 
@@ -47,5 +47,20 @@ The multimedia approach was carefully chosen to cater to diverse learning styles
 
 #### Project Website
 For a more interactive experience and to explore the resources developed for this project, visit the [Language Acquisition Multimedia Project website](https://organistammproject.weebly.com/).
+
+## Project 2: Cognitive Architecture for Intelligent Tutoring Systems
+
+### Overview
+This project was conducted as part of the "Understanding Humans for Modeling and Simulation" course. It involved a collaborative effort where my partner and I combined our expertise to develop a cognitive architecture model. The model is designed to depict the intentions of an intelligent tutoring system that is trained to monitor students' affective states for emotion regulation and to improve math performance.
+
+### Approach
+The project employed an innovative approach by collecting multichannel multimodal data, which includes physiological, behavioral, and interaction data. This comprehensive data collection enabled the system to understand and react to student emotions effectively, thereby tailoring the learning experience to enhance both engagement and educational outcomes.
+
+### Model Description
+Our model integrates various components of cognitive architecture with advanced machine learning techniques to predict and respond to student needs dynamically. The emphasis was on creating a system that not only supports academic achievement but also fosters a positive emotional and psychological environment for learning.
+
+### Project Image
+![Cognitive Architecture Model](Images/Final_Model.png)
+
 
 
