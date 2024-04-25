@@ -135,7 +135,7 @@ For a detailed account of the research, including comprehensive data and analysi
 ### Project 6: Non-Invasive Mental Health Diagnostics Using Non-Linear Dynamical Methods
 
 #### Introduction
-"Analyzing Eye Movements for Non-Invasive Mental Health Diagnostics" delves into the cutting-edge realm of mental health assessment through ocular analysis, utilizing non-linear dynamical methods to discern nuanced mental states from eye movement patterns.
+In this proposal, "Analyzing Eye Movements for Non-Invasive Mental Health Diagnostics" we delve into the cutting-edge realm of mental health assessment through ocular analysis, utilizing non-linear dynamical methods to discern nuanced mental states from eye movement patterns.
 
 #### Conclusions
 - **Analytical Detection**: A combination of analytical approaches has demonstrated the ability to detect subtle variations in mental states by examining eye movements alone, offering a non-invasive diagnostic tool.
