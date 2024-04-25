@@ -37,7 +37,7 @@ Beyond the lab, I dedicate my time to volunteering with organizations that promo
 
 ## Key Projects
 
-1. ### Project A: Multimedia Language Acquisition Research
+### Project 1: Multimedia Language Acquisition Research
 
 #### Overview
 This project leverages a rich array of multimedia tools—including PowerPoint presentations, websites, audio, and video content—to elucidate my research on language acquisition. The goal was to create an accessible and engaging educational resource that highlights the importance and intricacies of how we acquire languages.
