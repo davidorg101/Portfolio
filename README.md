@@ -24,8 +24,8 @@ I have also contributed to the making and presentation of research posters inclu
 
 - "Examining Gender Differences to Leverage Self-Regulated Learning Scaffolding in an Intelligent Tutoring System."
 
-![*Poster Presentation*](Images/Poster_presentation.jpg).
+![*Poster Presentation*](Images/Poster_presentation.jpg)
 
-Poster:(Images/Poster.png).
+[Poster:](Images/Poster.png)
 
 This period has been instrumental in shaping my understanding and expertise in AI-driven educational tools, setting a solid foundation for my ongoing contributions to the field of modeling and simulation.
