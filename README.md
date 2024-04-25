@@ -70,5 +70,27 @@ The system is designed to facilitate a seamless flow of information between the 
 #### Model:
 ![Cognitive Architecture Model](Images/Final_Model.png)
 
+### Project 3: Supervised Learning in Language Acquisition Demographics
+
+#### Overview
+This project delved into the impact of demographics on language learning by employing supervised learning techniques. The objective was to determine how various demographic factors affect a student's language speaking score, with the score as the response variable (y) and demographic characteristics as the predictor variables (x).
+
+#### Key Findings
+- **Model Improvement**: The inclusion of additional predictors significantly enhanced the model's explanatory power, evidenced by a higher R^2 value.
+- **Influence of Language Features**: High negative correlation coefficients for new sounds and features suggest that unfamiliar phonetic and linguistic characteristics of a target language may result in lower speaking scores.
+- **Demographic Impact**: Interestingly, the variable 'sex' showed a significant negative effect on speaking scores, indicating a gender disparity where males exhibited lower scores compared to females.
+- **Model Performance**:
+  - The low deviance and a Pseudo R-squared value of 0.3392 indicate moderate model accuracy, explaining approximately 34% of the variance in speaking scores.
+  - Comparative analysis of model evaluation methods showed k-Fold Cross-Validation to be the most effective due to its balance of computational efficiency and accuracy, with the Test Mean Squared Error (MSE) being the lowest at 1113.2612345510613.
+  
+#### Model Evaluation
+The k-Fold Cross-Validation method emerged as the preferred technique for model evaluation over alternatives such as Bootstrap and Out-of-Bag (OOB) error estimation due to its robustness and manageable computational demands.
+
+#### Visualizations
+To view the graphical representations of the findings, check out the images below:
+- ![Average Scores](images/average.png)
+- ![Relative Feature Importance](images/relative_future_importance.png)
+
+
 
 
