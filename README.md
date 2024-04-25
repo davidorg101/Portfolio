@@ -24,9 +24,10 @@ Each of these papers underscored the potential of AI to transform educational me
 
 I have also contributed to the making and presentation of research posters including:
 
-- "Examining Gender Differences to Leverage Self-Regulated Learning Scaffolding in an Intelligent Tutoring System."
+- "Examining Gender Differences to Leverage Self-Regulated Learning Scaffolding in an Intelligent Tutoring System." Poster submitted and
+accepted to the 2023 UCF Student Scholar Symposium. UCF, Orlando, Florida. 
 
-![*Poster Presentation*](Images/Poster_presentation.jpg) . UCF, Orlando, Florida. 
+![*Poster Presentation*](Images/Poster_presentation.jpg)
 
 [Full poster here](Images/Poster.png)
 
