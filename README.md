@@ -87,7 +87,7 @@ This project delved into the impact of demographics on language learning by empl
 The k-Fold Cross-Validation method emerged as the preferred technique for model evaluation over alternatives such as Bootstrap and Out-of-Bag (OOB) error estimation due to its robustness and manageable computational demands.
 
 #### Visualizations
-To view the graphical representations of the findings, check out the images below:
+To view the graphical representations of the key findings, check out the images below:
 - ![Average Scores](Images/average.png)
 - ![Relative Feature Importance](Images/relative_future_importance.png)
 
