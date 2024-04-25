@@ -88,8 +88,8 @@ The k-Fold Cross-Validation method emerged as the preferred technique for model 
 
 #### Visualizations
 To view the graphical representations of the key findings, check out the images below:
-- ![Average Scores](Images/average.png)
-- ![Relative Feature Importance](Images/relative_future_importance.png)
+![Average Scores](Images/average.png)
+![Relative Feature Importance](Images/relative_future_importance.png)
 
 
 
