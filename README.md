@@ -115,6 +115,23 @@ The statistical analysis post-simulation provided a robust dataset to examine th
 ![Simulated Restaurant Environment](Images/Environment1.png)
 ![Robot Pathfinding Solutions](Images/Robot_Solutions.png)
 
+### Project 5: Large Language Model (LLM) Collaboration Analysis
+
+#### Abstract
+This project was an exploratory analysis into the efficacy of various Large Language Models (LLMs) in academic and test-taking contexts. By examining different groupings of LLMs, the study aimed to identify which configurations yield the best performance in terms of accuracy, reliability, and practicality in educational settings.
+
+#### Methodology
+The investigation employed a comparative approach, analyzing several LLMs against a set of linguistic and problem-solving tasks typically encountered in academic evaluations. Performance metrics were established to gauge the models' responses, ensuring a standardized assessment across different LLM configurations.
+
+#### Findings
+Our analysis revealed that certain LLMs, when grouped based on complementary strengths, exhibited enhanced performance, particularly in complex comprehension and reasoning tasks. The interplay between models' design attributes and task-specific demands was crucial in determining overall efficacy.
+
+#### Conclusions
+The study concluded that a collaborative approach to utilizing LLMs could significantly advance the role of AI in educational contexts. By strategically combining different LLMs, educators and technologists can create robust AI systems capable of supporting a wide range of academic functions.
+
+#### Full Paper
+For a detailed account of the research, including comprehensive data and analysis, refer to the final paper: [Final Paper on LLM Collaboration](Final_Paper.docx).
+
 
 
 
