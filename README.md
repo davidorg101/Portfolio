@@ -146,6 +146,20 @@ In this proposal, "Analyzing Eye Movements for Non-Invasive Mental Health Diagno
 #### Presentation and Full Analysis
 For an in-depth look at the research, methodologies, and detailed findings, refer to the complete PowerPoint presentation: [Final Presentation on Eye Movements](./Papers_and_Presentations/Final_Presentation.pptx).
 
+## Resume and Curriculum Vitae
+
+For a detailed overview of my professional experience, educational background, and skill set, please refer to the documents below:
+
+- [Resume - David A. Organista](./Papers_and_Presentations/David_Organista_resume.docx)
+- [Curriculum Vitae (CV)](./Papers_and_Presentations/CV.docx)
+
+## Contact Me
+
+Should you wish to discuss my work, potential collaborations, or have any inquiries, please feel free to reach out to me using the contact information provided below:
+
+- **Full Name**: David A. Organista
+- **Email**: [David.Organista@ucf.edu](mailto:David.Organista@ucf.edu)
+- **Phone Number**: 954-857-4349
 
 
 
