@@ -8,8 +8,7 @@ Over the past two years, I've been deeply engaged in the world of modeling and s
 ### SMART Lab Experience
 At the SMART Lab, I contributed to several projects aimed at improving user interaction with AI systems. My role involved extensive data analysis, simulation of user interactions, and the development of models that predict and enhance learning outcomes. This hands-on experience not only sharpened my technical skills but also provided me with invaluable insights into the complexities of human-AI collaboration.
 
-### Volunteering and Leadership
-Beyond the lab, I dedicated my time to volunteering with organizations that promote science and technology education. My efforts were geared towards inspiring young students to explore and embrace technology, particularly artificial intelligence, as a tool for problem-solving and innovation.
+![*SMART Lab*](Images/SMART_LAB.jpeg)
 
 ### Research Contributions
 My research during this period led to significant contributions to the field, particularly in intelligent tutoring systems. I authored and co-authored several papers that were accepted at prestigious conferences:
@@ -32,3 +31,7 @@ accepted to the 2023 UCF Student Scholar Symposium. UCF, Orlando, Florida.
 [Full poster here](Images/Poster.png)
 
 This period has been instrumental in shaping my understanding and expertise in AI-driven educational tools, setting a solid foundation for my ongoing contributions to the field of modeling and simulation.
+
+### Volunteering and Leadership
+Beyond the lab, I dedicated my time to volunteering with organizations that promote science and technology education. My efforts were geared towards inspiring young students to explore and embrace technology, particularly artificial intelligence, as a tool for problem-solving and innovation.
+
