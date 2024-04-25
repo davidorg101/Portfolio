@@ -1,4 +1,4 @@
-# Modeling and Simulation Portfolio
+v# Modeling and Simulation Portfolio
 ## Academic and professional Projects from Fall 2022 until Spring 2024
 
 ## Two-Year Summary
@@ -19,5 +19,13 @@ My research during this period led to significant contributions to the field, pa
 - "Examining Gender Differences in Self-Regulated Learning with MetaTutor " presented at the [American Educational Research Association (AERA)](./Papers_and_Presentations/AERA.docx).
 
 Each of these papers underscored the potential of AI to transform educational methodologies through adaptive learning environments and data-driven insights.
+
+I have also contributed to the making and presentation of research posters including:
+
+- "Examining Gender Differences to Leverage Self-Regulated Learning Scaffolding in an Intelligent Tutoring System."
+
+![*Poster Presentation*](Images/Poster_presentation.jpg).
+
+Poster:(Images/Poster.png).
 
 This period has been instrumental in shaping my understanding and expertise in AI-driven educational tools, setting a solid foundation for my ongoing contributions to the field of modeling and simulation.
