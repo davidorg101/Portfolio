@@ -3,7 +3,7 @@
 
 ## Two-Year Summary
 
-Over the past two years, I've been deeply engaged in the world of modeling and simulation through my work at the SMART Lab and my commitment to volunteer activities. During this time, my focus has been on enhancing AI-human interactions, particularly in the domain of intelligent tutoring systems.
+Over the past two years, I've been deeply engaged in the world of modeling and simulation through my work at the Study of Metacognition and Advanced leaRning Technologies (SMART) Lab and my commitment to volunteer activities. During this time, my focus has been on enhancing AI-human interactions, particularly in the domain of intelligent tutoring systems.
 
 ### SMART Lab Experience
 At the SMART Lab, I contributed to several projects aimed at improving user interaction with AI systems. My role involved extensive data analysis, simulation of user interactions, and the development of models that predict and enhance learning outcomes. This hands-on experience not only sharpened my technical skills but also provided me with invaluable insights into the complexities of human-AI collaboration.
