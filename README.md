@@ -19,6 +19,7 @@ My research during this period led to significant contributions to the field, pa
 - "Gender Differences in Self-Regulated Learning Strategy Use in an Intelligent Tutoring System" accepted at the [European Association for Research on Learning and Instruction (EARLI)](./Papers_and_Presentations/EARLI.docx) conference. Macedonia, Greece.  
 
 - "Examining Gender Differences in Self-Regulated Learning with MetaTutor " accepted at the [American Educational Research Association (AERA)](./Papers_and_Presentations/AERA.docx) conference. Chicago, USA.
+
 Each of these papers underscored the potential of AI to transform educational methodologies through adaptive learning environments and data-driven insights.
 
 I have also contributed to the making and presentation of research posters including:
