@@ -146,6 +146,17 @@ In this proposal, "Analyzing Eye Movements for Non-Invasive Mental Health Diagno
 #### Presentation and Full Analysis
 For an in-depth look at the research, methodologies, and detailed findings, refer to the complete PowerPoint presentation: [Final Presentation on Eye Movements](./Papers_and_Presentations/Final_Presentation.pptx).
 
+## Purpose Statement:
+
+At the crossorad of academic and practical challenges, my experiences have affirmed that the key to pioneering advancements lies in the harmonious convergence of theory and application. Modeling and simulation have proven to be more than tools; they are the mediums through which the abstract becomes tangible, where complex systems are understood, and the future is shaped. This integrative framework has been instrumental in enhancing the interfacing of artificial intelligence with the intricacies of human learning.
+
+My contributions to the field have been particularly impactful in the realm of personalized education, where through simulation, we can now tailor learning experiences to the individual, respecting the unique pace, style, and needs of each learner. The pursuit of this endeavor was not merely academic; it was a commitment to the belief that education, powered by AI and informed by data-driven insights, can and should be as individual as the learners themselves.
+
+The potential of modeling and simulation to revolutionize not only education but multiple sectors has never been more apparent. I stand at this juncture, equipped with empirical knowledge and an unwavering resolve to continue forging pathways that integrate AI seamlessly into our learning environments and beyond. It is my firm conviction that through continued innovation in modeling and simulation, we can unlock unprecedented levels of personalization, efficiency, and effectiveness in educational settings and other interdisciplinary domains.
+
+As I advance in my career, my mission remains steadfast: to drive the evolution of AI-human interactions, ensuring that technology serves to augment human potential, and to advocate for modeling and simulation as indispensable catalysts in this revolutionary pursuit.
+
+
 ## Resume and Curriculum Vitae
 
 For a detailed overview of my professional experience, educational background, and skill set, please refer to the documents below:
