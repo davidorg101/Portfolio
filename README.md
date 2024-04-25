@@ -112,8 +112,8 @@ The statistical analysis post-simulation provided a robust dataset to examine th
 
 #### Visualizations
 For a closer look at the simulation and its results, view the images below:
-- ![Robot Pathfinding Solutions](Images/Robot_Solutions.png)
-- ![Simulated Restaurant Environment](Images/Environment1.png)
+![Robot Pathfinding Solutions](Images/Robot_Solutions.png)
+![Simulated Restaurant Environment](Images/Environment1.png)
 
 
 
