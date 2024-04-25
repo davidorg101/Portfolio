@@ -132,6 +132,19 @@ The study concluded that a collaborative approach to utilizing LLMs could signif
 #### Full Paper
 For a detailed account of the research, including comprehensive data and analysis, refer to the final paper: [Final Paper on LLM Collaboration](./Papers_and_Presentations/Final_Paper.docx).
 
+### Project 6: Non-Invasive Mental Health Diagnostics Using Non-Linear Dynamical Methods
+
+#### Introduction
+"Analyzing Eye Movements for Non-Invasive Mental Health Diagnostics" delves into the cutting-edge realm of mental health assessment through ocular analysis, utilizing non-linear dynamical methods to discern nuanced mental states from eye movement patterns.
+
+#### Conclusions
+- **Analytical Detection**: A combination of analytical approaches has demonstrated the ability to detect subtle variations in mental states by examining eye movements alone, offering a non-invasive diagnostic tool.
+- **Complex Patterns in Disorders**: Eye movement patterns in individuals with neurodevelopmental disorders are markedly more complex and unpredictable than those observed in mentally healthy individuals, indicating a potential biomarker for diagnosis.
+- **Enhanced Diagnostic Metrics**: Incorporating additional eye-tracking metrics, such as saccadic movements, blink rates, and pupil dilation, has the potential to significantly improve diagnostic precision.
+- **Advancements in Analysis**: The increasing validation of fractal and entropy analysis in eye movement studies promises to broaden the application of these methods, improving the accuracy, objectivity, and accessibility of mental health diagnostics in both educational and healthcare settings.
+
+#### Presentation and Full Analysis
+For an in-depth look at the research, methodologies, and detailed findings, refer to the complete PowerPoint presentation: [Final Presentation on Eye Movements](./Papers_and_Presentations/Final_Presentation.pptx).
 
 
 
