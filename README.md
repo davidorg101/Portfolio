@@ -149,7 +149,7 @@ For an in-depth look at the research, methodologies, and detailed findings, refe
 
 ## Purpose Statement:
 
-At the crossorad of academic and practical challenges, my experiences have affirmed that the key to pioneering advancements lies in the harmonious convergence of theory and application. Modeling and simulation have proven to be more than tools; they are the mediums through which the abstract becomes tangible, where complex systems are understood, and the future is shaped. This integrative framework has been instrumental in enhancing the interfacing of artificial intelligence with the intricacies of human learning.
+At the crossroad of academic and practical challenges, my experiences have affirmed that the key to pioneering advancements lies in the harmonious convergence of theory and application. Modeling and simulation have proven to be more than tools; they are the mediums through which the abstract becomes tangible, where complex systems are understood, and the future is shaped. This integrative framework has been instrumental in enhancing the interfacing of artificial intelligence with the intricacies of human learning.
 
 My contributions to the field have been particularly impactful in the realm of personalized education, where through simulation, we can now tailor learning experiences to the individual, respecting the unique pace, style, and needs of each learner. The pursuit of this endeavor was not merely academic; it was a commitment to the belief that education, powered by AI and informed by data-driven insights, can and should be as individual as the learners themselves.
 
