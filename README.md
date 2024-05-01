@@ -110,7 +110,8 @@ In this simulation:
 #### Conclusions
 The statistical analysis post-simulation provided a robust dataset to examine the efficiency of different pathfinding approaches. The insights gained could inform both the deployment of service robots in restaurants and the broader field of robotics in service industries.
 
-#### VisualizationsFor a closer look at the simulation and its results, view the images below:
+#### Visualizations
+For a closer look at the simulation and its results, view the images below:
 
 ![Simulated Restaurant Environment](Images/Environment1.png)
 ![Robot Pathfinding Solutions](Images/Robot_Solutions.png)
