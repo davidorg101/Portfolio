@@ -162,7 +162,7 @@ As I advance in my career, my mission remains steadfast: to drive the evolution 
 
 For a detailed overview of my professional experience, educational background, and skill set, please refer to the documents below:
 
-- [Resume - David A. Organista](./Papers_and_Presentations/David_Organista_resume.docx)
+- [Resume - David A. Organista](./Papers_and_Presentations/Resume.pdf) 
 - [Curriculum Vitae (CV)](./Papers_and_Presentations/CV.docx)
 
 ## Contact Me
